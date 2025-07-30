@@ -65,7 +65,7 @@ System.out.println("Hello World");
 [구글](https://google.com)  
 [이름](주소) 
 
-![이미지 설명] (https://mediahub.seoul.go.kr/wp-content/uploads/2016/09/61a2981f41200ac8c513a3cbc0010efe.jpg)
+![이미지 설명](https://mediahub.seoul.go.kr/wp-content/uploads/2016/09/61a2981f41200ac8c513a3cbc0010efe.jpg)
 
 <!-- ==하이라이트== -->
 <mark>하이라이트</mark>
