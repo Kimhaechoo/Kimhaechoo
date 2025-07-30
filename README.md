@@ -2,7 +2,7 @@
 <!-- 안녕하세요 저는 김지윤 입니다. -->
 <!-- 안녕하세요 저는<mark>김지윤</mark>입니다.
  -->
- 안녕하세요 저는 `김지윤`입니다.
+ 안녕하세요 저는 김지윤 입니다.
 
  ![googlechat](https://img.shields.io/badge/googlechat-00AC47.svg?&style=for-the-badge&logo=googlechat&logoColor=white) 
 
